@@ -1,0 +1,9 @@
+Drag this "calibrePortable" folder into the:
+
+[driveletter]:\PortableApps\PortableApps\calibrePortable
+
+directory, to add the new and modified assets to the official PortableApps.com release of calibrePortable.
+
+A popup will inform you that "The destination already has a file named "appinfo.ini".
+
+Select: "Replace the file in the destination"

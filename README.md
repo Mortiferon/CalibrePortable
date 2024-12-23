@@ -1,0 +1,5 @@
+### Calibre in PortableApps.com Format (PAF) modified for eBook Developers
+
+The [official release](https://portableapps.com/apps/office/calibre-portable) of Calibre in PAF format by [PortableApps.com](https://portableapps.com/) does not allow you to launch the [Calibre Viewer](https://manual.calibre-ebook.com/#the-calibre-e-book-viewer) or the [Calibre Editor](https://manual.calibre-ebook.com/#editing-e-books) from the [PortableApps.com Platform](https://portableapps.com/download). This [modified](https://portableapps.com/node/71972) version of CalibrePortable does.
+
+This is most useful for eBook Developers because you don't have to import to the Calibre Library, you can directly work on creating or editing your eBook files with [Calibre Editor](https://manual.calibre-ebook.com/#editing-e-books) and simultaneously preview them as you are developing or modifying them with [Calibre Viewer](https://manual.calibre-ebook.com/#the-calibre-e-book-viewer). All without having to launch the [main Calibre manager](https://manual.calibre-ebook.com/#the-main-calibre-user-interface).
